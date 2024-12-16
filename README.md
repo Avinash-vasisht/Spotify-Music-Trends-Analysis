@@ -27,7 +27,7 @@ This project analyzes Spotify music data using Python libraries to uncover patte
 4. Visualizations: Generated bar charts, scatter plots, and histograms for trend analysis.
 
 # File Structure
-[Project.pdf](https://github.com/user-attachments/files/18147051/Project.pdf)
+https://github.com/Avinash-vasisht/Spotify-Music-Trends-Analysis/blob/main/Project.pdf
 
 ## Linkedin 
 www.linkedin.com/in/avinashvasisht
